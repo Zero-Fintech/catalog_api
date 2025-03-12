@@ -31,4 +31,8 @@
     <Folder Include="Features\Products\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Zero.Catalog.Api\Zero.Catalog.Api.csproj" />
+  </ItemGroup>
+
 </Project>

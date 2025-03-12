@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestPlatform.TestHost;
+
 
 namespace Zero.Catalog.Api.ComponentTests;
 
